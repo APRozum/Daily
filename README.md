@@ -34,4 +34,4 @@ Android-приложение, которое представляет из се�
 
 Контакты
 -
-Telegram https://t.me/APRozum
+Telegram https://t.me/RozumAndroid
